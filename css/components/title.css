@@ -2,6 +2,10 @@ h2{
     color:#f1c40f;
     font-family: 'Press Start 2P';
     text-shadow: 5px 5px 0px black;
+    
 
 }
 
+#box h1,h2{
+    margin-bottom:  28px;
+}
