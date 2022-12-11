@@ -1,7 +1,7 @@
 .header{
     display: flex;
     background-color:#0654a1;
-    padding: 10px 20px;
+    padding: 10px 20px ;
     border-bottom:  10px solid  #f1c40f;
     justify-content: space-between;
     align-items: center;
@@ -13,3 +13,5 @@ a:hover{
     
 
 }
+
+
