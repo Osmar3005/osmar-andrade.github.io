@@ -1,5 +1,5 @@
 
-.action{
+.main-action{
     display: inline-flex;
     align-items: center;
     color: #fff;
@@ -11,14 +11,14 @@
 }
 
 
-.action:hover{
+.main-action:hover{
     text-decoration: underline;
 }
 
 
 
 
-.action::before{
+.main-action::before{
     content: "";
     display: inline-block;
     background-color: #f1c40f;
